@@ -1,0 +1,61 @@
+
+body{ font-size: 18px; }
+
+div.body-container {
+  background-image: url("../images/bg-hero-desktop.svg");
+  background-repeat: no-repeat;
+  overflow: auto;
+  padding: 40px;
+}
+
+div.img-content{  float: left;  overflow: hidden;; width: 60%; }
+div.img-content-box{  float: left;  overflow: auto; width: 40%; }
+
+  .img-mockups { width: 100%;  height: auto;  margin-left: 30px; }
+
+div.top-box{
+  display: block;
+  overflow: auto;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+.logo{  float: left;  width: 150px; }
+
+.button{
+  font-family: "Open sans";
+  box-shadow: 2px 2px 3px gray;
+  border-radius: 20px;
+  padding: 10px 40px;
+  text-align: center;
+}
+
+.try{
+  float: right;
+  font-size: 14px;
+  font-weight: 400;
+  background-color: #FFF;
+}
+
+.getStart{
+  float: left;
+  font-size: 14px;
+  font-weight: 400;
+  background-color: #FFF;
+}
+
+.text-containt-main{ font-family: Poppins;  float: left; width: 40%;}
+.text-containt-box{ font-family: Poppins;  float: left; width: 60%;}
+
+.img-box { width: 100%;  height: auto;  margin-left: 0px; }
+
+h1{  font-weight: 600; }
+
+
+div.box{
+  box-shadow: 2px 2px 3px gray;
+  border-radius: 20px;
+  margin: 40px;
+  overflow: auto;
+  padding: 40px;
+}
